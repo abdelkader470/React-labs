@@ -1,0 +1,6 @@
+bg : #2c0047
+
+Halloween Party : color : #f7ea66
+
+
+Get a Ticket && Explore More   color : 	 #7f479a

@@ -52,7 +52,10 @@ export default class Parent extends Component {
   render() {
     return (
       <>
-        <div className="container">
+        <div
+          className="container-fluid vh-100"
+          style={{ backgroundColor: "#421C59" }}
+        >
           <div className="row">
             {this.state.products.map((product, index) => (
               <Child

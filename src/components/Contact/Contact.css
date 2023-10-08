@@ -1,0 +1,16 @@
+.contact {
+  position: absolute;
+  z-index: 0;
+  width: 250px;
+  left: 125px;
+  transform: translateX(-50%);
+  bottom: 0px;
+}
+/* styles.css */
+.font {
+  font-family: "Berkshire Swash", cursive;
+}
+.white-placeholder ::placeholder {
+  color: white !important;
+  font-family: "Berkshire Swash", cursive;
+}
